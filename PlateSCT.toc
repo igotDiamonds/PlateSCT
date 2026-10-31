@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: |cff9482c9Plate|rSCT
+## Notes: Scrolling combat text that flies out of nameplates: your damage, heals and misses, with crits that pop.
+## Version: 1.1.0
+## OptionalDeps: WarlockPlates
+## SavedVariables: PlateSCTDB
+
+Locale.lua
+Core.lua
+Options.lua
